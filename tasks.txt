@@ -1,0 +1,4 @@
+Wake Up at 11,true
+Work out for 15 minutes,true
+Meditate for 10 Minutes,false
+Eat Healthy,false
